@@ -1,1 +1,1 @@
-# dialogflow-shopping-site
+# Shopping using DialogFlow
